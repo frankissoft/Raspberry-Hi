@@ -1,5 +1,5 @@
 # Raspberry-Hi
-Raspberry Hi is a real-time facial emotion recognition system. 
+Raspberry Hi is a real-time facial emotion recognition system. \
 If a face is detected, a bounding box will appear indicating the location of face. \
 Meanwhile, a vertical bar chart will visualize the score for each emotion catagory. An emoji correspoing the highest score will appear on the left.
 
@@ -23,7 +23,7 @@ python3 main.py
 ```
 
 To capture a snapshot:\
-SPACE key
+Use SPACE key on keyboard
 
 Performance: 61.5% on fer2013 dataset
 
